@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c394ca5b-3b18-4895-8371-d940d620f5e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGG5Tmy8JnU9ex0rPDiAWX5v8L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Katya\java-project\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.jsonValidationFeature.defaultProviderValidation">
+    <configuration name="App" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.App" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App.paramTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example" />
+      <option name="MAIN_CLASS_NAME" value="com.example.App" />
+      <option name="METHOD_NAME" value="paramTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jsonValidationFeature" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepsDefinition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stepsDefinition" />
+      <option name="MAIN_CLASS_NAME" value="stepsDefinition.jsonValidationFeature" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jsonValidationFeature.defaultProviderValidation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepsDefinition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stepsDefinition" />
+      <option name="MAIN_CLASS_NAME" value="stepsDefinition.jsonValidationFeature" />
+      <option name="METHOD_NAME" value="defaultProviderValidation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jsonValidationFeature.extractJSON" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stepsDefinition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stepsDefinition" />
+      <option name="MAIN_CLASS_NAME" value="stepsDefinition.jsonValidationFeature" />
+      <option name="METHOD_NAME" value="extractJSON" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.jsonValidationFeature.defaultProviderValidation" />
+        <item itemvalue="JUnit.App" />
+        <item itemvalue="JUnit.App.paramTest" />
+        <item itemvalue="JUnit.jsonValidationFeature" />
+        <item itemvalue="JUnit.jsonValidationFeature.extractJSON" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c394ca5b-3b18-4895-8371-d940d620f5e0" name="Default Changelist" comment="" />
+      <created>1586354333749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586354333749</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586361010746">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586361010746" />
+    <state x="444" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586365261936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586365261936" />
+    <state width="402" height="466" key="DebuggerActiveHint" timestamp="1586617118745">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="402" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1586617118745" />
+    <state x="484" y="106" key="FileChooserDialogImpl" timestamp="1586361846981">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586361846981" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586632167711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586632167711" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586632167711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586632167711" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586632167711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586632167711" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586632167711">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586632167711" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1586631404975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586631404975" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1586631404975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586631404975" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1586631404975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586631404975" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1586631404975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586631404975" />
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog" timestamp="1586622899644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="20" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1586622899644" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1586361877180">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586361877180" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1586456988508">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586456988508" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1586625070682">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586625070682" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1586371791742">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586371791742" />
+  </component>
+</project>
