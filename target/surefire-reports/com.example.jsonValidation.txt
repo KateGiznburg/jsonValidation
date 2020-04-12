@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.jsonValidation
 -------------------------------------------------------------------------------
-Tests run: 291, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.669 sec
+Tests run: 291, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.687 s - in com.example.jsonValidation
