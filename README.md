@@ -41,4 +41,4 @@ JSON file validation
 
 ## Author
 
-* **Kate Ginzburg** -[GitHub](https://github.com/KateGiznburg) - [LinkedIn](https://www.linkedin.com/in/kateginzburg)
+* **Kate Ginzburg** - [GitHub](https://github.com/KateGiznburg) - [LinkedIn](https://www.linkedin.com/in/kateginzburg)
