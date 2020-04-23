@@ -9,7 +9,7 @@ JSON file validation
 2. Type *cd %path%*, where %path% - it's a folder with a project
 3. Use *mvn test*, if you would like to run tests without creating report
 4. Use *mvn site*, if you would like to run tests and create the report
-5. Use *mvn clear*, if you you would like to run tests and create the report from scratch
+5. Use *mvn clean*, if you you would like to run tests and create the report from scratch
 6. In order to check the report open *surefire-report.html* using browser
 
 ## Break down into end to end tests
